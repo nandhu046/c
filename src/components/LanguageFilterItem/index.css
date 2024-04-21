@@ -1,0 +1,26 @@
+.filter-btn {
+  font-family: 'roboto';
+  background-color: transparent;
+  border-width: 0px;
+  color: #1e293b;
+  font-weight: 500;
+  cursor: pointer;
+  margin: 15px;
+  font-size: 16px;
+}
+
+.clicked-btn {
+  border-width: 1px;
+  font-size: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: #0284c7;
+  color: #0284c7;
+  font-family: 'roboto';
+  border-style: solid;
+  border-radius: 20px;
+  font-weight: 500;
+  margin: 10px;
+}

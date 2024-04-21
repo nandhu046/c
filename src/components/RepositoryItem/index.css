@@ -1,0 +1,50 @@
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  list-style-type: none;
+  background-color: #f8f8ff;
+  font-family: 'roboto';
+  flex-wrap: wrap;
+  margin: 5px;
+  border-radius: 15px;
+}
+
+.repo-logo {
+  height: 60px;
+  width: 60px;
+}
+
+.repo-name {
+  color: #e73959;
+  font-weight: 500;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+}
+
+.repo-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 8px;
+  align-self: flex-start;
+}
+
+.img-style {
+  height: 14px;
+  width: 14px;
+  margin-right: 8px;
+}
+
+.count {
+  margin: 0px;
+  font-size: 14px;
+  font-weight: 500;
+}

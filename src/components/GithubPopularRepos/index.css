@@ -1,0 +1,29 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  background-color: #ffffff;
+}
+
+.main-heading {
+  font-family: 'Lobster';
+  color: #0f172a;
+  margin-top: 4px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+  width: 80%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.filterOnLanguageContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
